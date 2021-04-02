@@ -1,4 +1,5 @@
-### Hi there 👋
+🐇 Welcome to the evolution of a new coder :THE BEGINNING 🐇
+I'm currently learning how to code so any help is appreciated.
 
 <!--
 **AmaniPitts/AmaniPitts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
